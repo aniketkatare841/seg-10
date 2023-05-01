@@ -113,4 +113,4 @@ if(blogID[0] != "editor"){
               location.replace("/");
     }  
   })
-}
+} 

@@ -10,6 +10,7 @@
   },
   "author": "c23",
   "license": "ISC",
+  "proxy": "http://localhost:8080",
   "dependencies": {
     "express-fileupload": "^1.4.0",
     "express.js": "^1.0.0",
